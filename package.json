@@ -2,6 +2,7 @@
   "name": "justbard-orange-theme",
   "displayName": "JustBard Orange Theme",
   "description": "A rich dark theme with bold orange highlights by JustBard Technologies.",
+  "icon": "images/logo.png",
   "version": "0.0.1",
   "publisher": "JustBardTechnologies",
   "engines": {
