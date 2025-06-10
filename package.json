@@ -3,10 +3,10 @@
   "displayName": "JustBard Orange Theme",
   "description": "A rich dark theme with bold orange highlights by JustBard Technologies.",
   "icon": "images/logo.png",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "JustBardTechnologies",
   "engines": {
-    "vscode": "^1.100.0"
+    "vscode": "^1.50.0"
   },
   "categories": [
     "Themes"
