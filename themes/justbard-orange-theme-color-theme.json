@@ -15,7 +15,14 @@
 	  "statusBarItem.remoteBackground": "#ff8800",
 	  "statusBarItem.remoteForeground": "#ffffff",
 	  "list.activeSelectionBackground": "#333333",
-	  "list.activeSelectionForeground": "#ffffff"
+	  "list.activeSelectionForeground": "#ffffff",
+	  "editor.hoverHighlightBackground": "#ff770030",      // Highlight on symbol under cursor
+	  "editorHoverWidget.background": "#2a2a2a",           // Background of the hover tooltip
+	  "editorHoverWidget.border": "#ff6200",                // Border around the tooltip
+	  "textLink.foreground": "#ffae00",
+	  "textLink.activeForeground": "#ff6200",
+	  "editorSuggestWidget.highlightForeground": "#ffae00" // completion highlight
+
 	},
 	"tokenColors": [
 	  {
@@ -96,7 +103,7 @@
 		"name": "JSON - Key Level 0",
 		"scope": ["source.json support.type.property-name.json"],
 		"settings": {
-		  "foreground": "#ffa200"
+		  "foreground": "#e6e6e6"
 		}
 	  },
 	  {
