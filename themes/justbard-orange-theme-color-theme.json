@@ -177,6 +177,16 @@
 		}
 	  },
 	  {
+		"name": "YAML Description Block",
+		"scope": [
+		  "string.unquoted.block.yaml",
+		  "string.unquoted.plain.out.yaml"
+		],
+		"settings": {
+		  "foreground": "#ffffff"
+		}
+	  },
+	  {
 		"name": "YAML Anchor",
 		"scope": [
 		  "constant.other.reference.anchor.yaml",
